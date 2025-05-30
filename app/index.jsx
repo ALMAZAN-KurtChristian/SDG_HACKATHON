@@ -128,7 +128,7 @@ const Menu = () => {
           <Text style={styles.actionText}>Settings</Text>
         </TouchableOpacity>
       </View>
-    </View>s
+    </View>
   );
 };
 
